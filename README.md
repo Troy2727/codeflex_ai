@@ -1,6 +1,6 @@
 <h1 align="center">💪  FitFusion AI – Your Smart Fitness Companion 🤖</h1>
 
-![Demo App](./screenshot-for-readme.png)
+![Demo App](screenshot-for-readme.png)
 
 ## Highlights:
 
